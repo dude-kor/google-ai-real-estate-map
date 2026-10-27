@@ -1,0 +1,6 @@
+{
+  "name": "Korea Real Estate Map & Public Open Data Explorer",
+  "description": "Interactive map displaying property listings and public transaction open data based on filters, styled after Naver Real Estate with Python Streamlit exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
